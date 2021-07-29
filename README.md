@@ -1,3 +1,5 @@
+[![Requirements](https://img.shields.io/badge/Requirements-See%20Here-blue)](https://github.com/jestemAria/IDBMS_MusicSearchByRedis/blob/main/requirements.txt)
+
 # IDBMS_MusicSearchByRedis
 IDBMS Course - Making platform for upload and search for music
 
@@ -17,7 +19,7 @@ It is NOT completed yet!
 > For downloading Redis just use the following commands:  
 
 ```shell
-mkdir redis && cd redis
+$ mkdir redis && cd redis
 $ curl -O http://download.redis.io/redis-stable.tar.gz
 $ tar xzvf redis-stable.tar.gz
 $ cd redis-stable
