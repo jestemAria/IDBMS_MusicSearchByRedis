@@ -1,7 +1,6 @@
 # DDBMS - Davoud Mohammadpour - by: Aria Radmehr
 
 import redis
-import terminaltables
 
 request = redis.Redis(host='localhost', port=6379, db=0)
 CURSOR_POINTER = '->'
